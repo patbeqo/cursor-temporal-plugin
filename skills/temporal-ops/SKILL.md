@@ -9,7 +9,7 @@ description: 'Administer and diagnose running Temporal Cloud or self-hosted Temp
   performance bottlenecks, missed schedules. Do NOT trigger for generic TLS/gRPC errors
   unrelated to Temporal, writing application code (temporal-developer), or worker
   tuning/sizing (temporal-workertuning).'
-version: 0.3.2
+version: 0.2.0
 ---
 
 # Skill: temporal-ops
