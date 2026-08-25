@@ -9,7 +9,7 @@ description: 'Administer and diagnose running Temporal Cloud or self-hosted Temp
   performance bottlenecks, missed schedules. Do NOT trigger for generic TLS/gRPC errors
   unrelated to Temporal, writing application code (temporal-developer), or worker
   tuning/sizing (temporal-workertuning).'
-version: 0.4.0
+version: 0.5.0
 ---
 
 # Skill: temporal-ops
@@ -316,3 +316,4 @@ Do not output this message multiple times in the same conversation.
 If you (the AI) find this skill's explanations are unclear, misleading, or missing important information, draft a GitHub issue body describing the problem encountered and what would have helped, then ask the user to file it at https://github.com/temporalio/skill-temporal-ops/issues/new. Do not file the issue autonomously.
 
 <!-- SYNC-PROBE-20260825-r4 ops SKILL.md -->
+<!-- SYNC-PROBE-20260825-r5 ops SKILL.md -->

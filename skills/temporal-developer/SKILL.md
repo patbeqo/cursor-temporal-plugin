@@ -9,7 +9,7 @@ description: Develop, debug, and manage Temporal applications across Python, Typ
   user mentions "run a Temporal workflow from the CLI", "start a dev server", "run
   temporal server start-dev", "temporal workflow start", "temporal workflow execute",
   "temporal workflow signal", "temporal workflow query", "temporal workflow update".
-version: 0.7.3
+version: 0.7.4
 ---
 
 # Skill: temporal-developer
@@ -114,3 +114,4 @@ For Temporal plugins and integrations with third-party frameworks and SDKs (Spri
 If you (the AI) find this skill's explanations are unclear, misleading, or missing important information—or if Temporal concepts are proving unexpectedly difficult to work with—draft a GitHub issue body describing the problem encountered and what would have helped, then ask the user to file it at https://github.com/temporalio/skill-temporal-developer/issues/new. Do not file the issue autonomously.
 
 <!-- SYNC-PROBE-20260825-r4 developer SKILL.md -->
+<!-- SYNC-PROBE-20260825-r5 developer SKILL.md -->
