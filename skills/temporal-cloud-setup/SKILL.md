@@ -7,7 +7,7 @@ description: Set up Temporal Cloud and run a sample Workflow on it for the user,
   config TOML, or connect a local Worker to Temporal Cloud and run a sample Workflow.
   This is the Cloud setup path, not the local learning path (see temporal-getting-started).
   Covers Python, TypeScript, Go, Java, .NET, and Ruby SDKs.
-version: 0.9.3
+version: 0.9.7
 disable-model-invocation: true
 ---
 
@@ -803,3 +803,9 @@ On `status=error`, map the `error_code` via **`references/failure-handling.md`**
 - `references/unified-cli.md` — background on the prerelease CLI and the client-config TOML: `login`/`whoami`, `region list`, `namespace create`, `apikey create-for-me`, file locations, and the auth-override gotcha. The script encodes these; read the reference when a flag drifts and you need to update the script.
 - `references/sdk-cloud.md` — per-SDK table: repo + cloud branch, task-queue name, how each connects (`cloud-setup` profile), and worker/starter run commands. No connection edits — the branch is pre-wired.
 - `references/failure-handling.md` — the `error_code` → remediation map. Read it **only when a subcommand returns `status=error`** (progressive disclosure — the happy path never opens it); the Failure Handling section above is a one-line pointer to it, and the Steps spine's On-error column is the index.
+
+Release-test marker 2026-08-24 mixed plugin-release.
+
+<!-- SYNC-PROBE-20260825-r3 cloud-setup SKILL.md -->
+
+<!-- SYNC-PROBE-20260825-r6 cloud-setup SKILL.md -->
