@@ -7,7 +7,7 @@ description: Set up Temporal Cloud and run a sample Workflow on it for the user,
   config TOML, or connect a local Worker to Temporal Cloud and run a sample Workflow.
   This is the Cloud setup path, not the local learning path (see temporal-getting-started).
   Covers Python, TypeScript, Go, Java, .NET, and Ruby SDKs.
-version: 0.9.4
+version: 0.9.5
 disable-model-invocation: true
 ---
 
