@@ -1,1 +1,1 @@
-SYNC-PROBE-20260825-r4 ops assets
+SYNC-PROBE-20260825-r7 ops assets
