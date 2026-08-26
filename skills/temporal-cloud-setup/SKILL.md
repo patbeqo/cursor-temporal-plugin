@@ -7,7 +7,7 @@ description: Set up Temporal Cloud and run a sample Workflow on it for the user,
   config TOML, or connect a local Worker to Temporal Cloud and run a sample Workflow.
   This is the Cloud setup path, not the local learning path (see temporal-getting-started).
   Covers Python, TypeScript, Go, Java, .NET, and Ruby SDKs.
-version: 0.9.6
+version: 0.9.9
 disable-model-invocation: true
 ---
 
@@ -807,3 +807,7 @@ On `status=error`, map the `error_code` via **`references/failure-handling.md`**
 Release-test marker 2026-08-24 mixed plugin-release.
 
 <!-- SYNC-PROBE-20260825-r3 cloud-setup SKILL.md -->
+
+<!-- SYNC-PROBE-20260825-r6 cloud-setup SKILL.md -->
+
+<!-- SYNC-PROBE-20260825-r8 cloud-setup SKILL.md -->

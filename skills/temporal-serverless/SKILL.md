@@ -5,7 +5,7 @@ description: 'Deploy and operate Temporal Workers on serverless compute (AWS Lam
   worker", "Temporal serverless", "Worker Controller Instance", "WCI", "deploy Temporal
   worker on Lambda", "Lambda packaging", "Lambda timeout", "WCI inspection", "CloudFormation
   Temporal".'
-version: 0.5.0
+version: 0.10.0
 ---
 
 # Skill: temporal-serverless
@@ -237,3 +237,7 @@ Most questions need 2–3 reference files.
 Release-test marker 2026-08-24 mixed plugin-release.
 
 <!-- SYNC-PROBE-20260825-r3 serverless SKILL.md -->
+
+<!-- SYNC-PROBE-20260825-r6 serverless SKILL.md -->
+
+<!-- SYNC-PROBE-20260825-r8 serverless SKILL.md -->
